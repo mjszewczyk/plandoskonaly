@@ -955,6 +955,8 @@ footer p {
     nav img {
         width: 250px;
         height: 250px;
+        padding: 0;
+        margin: 0;
     }
     .slogan {
         width: 100%;
@@ -1200,6 +1202,8 @@ footer p {
     nav img {
         width: 250px;
         height: 250px;
+        padding: 0;
+        margin: 0;
     }
     .slogan {
         width: 100%;
