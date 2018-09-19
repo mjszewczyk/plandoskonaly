@@ -234,7 +234,6 @@ nav ul li a:hover {
     height: 60%;
 }
 
-
 body::-webkit-scrollbar {
     width: 1em;
 }
@@ -1021,11 +1020,10 @@ footer p {
         font-size: 12px;
         margin-top: 0;
     }
-    .about-us img{
+    .about-us img {
         display: block;
         margin: 0 auto;
     }
-    
     .paragraph {
         padding-bottom: 50px;
     }
